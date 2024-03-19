@@ -1,2 +1,2 @@
 # My-XFCE-dotfiles
-my own configs dor i3wm and XFCE
+my own configs for i3wm and XFCE
